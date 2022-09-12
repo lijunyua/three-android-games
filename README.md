@@ -1,4 +1,7 @@
-# Game Chooser v3.0
+# Game Chooser v3.0v
+
+This is a 6-person final project done for CSC207 at Fall 2019 at University of Toronto.  
+https://github.com/feiyangfan is another contributor other than myself, and the other 4 cannot be found now.  
 
 **Game chooser v3.0** is a set of three Android games - _Platformer_, _Space Shooter_, and _Zombies Vs. Plants_ - connected through a common user interface, no extra plugin required for it to run.
 
